@@ -1,19 +1,17 @@
 # POWBOOK-app
-social media of animal 
 
-To run the project you will open 3 terminals
-And write first in all the terminals
-1.cd project1
-2.cd project
+Animal social media
 
-Then in the first terminal you will register
-1. cd server
-2. npm start
+To run the project you will open 3 terminals and write to all terminals first
+    Project 1.cd1
+    Project 2.cd
 
+Then in the first terminal you will write each command separately
+
+CD server
+Getting started with npm
 in the second terminal
-1. cd client
-2. npm start
 
-in the third terminal
-1.cd socket
-2. npm start
+CD client
+Getting started with npm
+In the third terminal 1. Insert CDs 2. Start npm
